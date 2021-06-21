@@ -32,6 +32,7 @@ I never felt lost. It was a great learning experience. Thanks for introducing me
 * I assumed that only regular education would result in a significant shift in knowledge. But here I am, after this summer school, become smitten with data science. Thank you to all of the tutors and the organizers! Feven Markos Hunde
 
 * What a great school! Well organised, helpful tutors and friendly environment. I learned so much, and will keep using the skills gained here for a long time. Thanks everyone! Michael Sarkis 
+* Thank you all for this amazing experience of learning! I enjoy it and learn a lot. And thank for made the material accessible!. again, Thanks!!!!  - Laura J. Caviedes B.
 
 * I am approaching the end of the first year of my PhD in astrophysics. I only started to teach 
   my self python in order to carry out astrophysical research. However, after this school, I feel 
